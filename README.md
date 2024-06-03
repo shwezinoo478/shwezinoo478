@@ -1,6 +1,6 @@
-#**Developer**
+<h1>**Developer**</h1>
 
-##🌱🌱I'm a passionate web developer 😇✨ 
+<h3>🌱🌱I'm a passionate web developer 😇✨</h3>
 
 🌱🌱I'm als dedicated to crafting innovative and efficient web solutions. 
 My curiosity drives me to stay updated with the latest trends and explore emerging technologies.🔥🔥🔥 
