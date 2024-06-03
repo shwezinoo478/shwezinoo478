@@ -11,8 +11,9 @@ You can see my contributions here through [my portfolio](https://shwezinoo478.gi
 
 
 <h2>Github Trophy </h2>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shwezinoo478&theme=onedark)](https://github.com/shwezinoo478/github-profile-trophy)
 
+<h2Code></h2>
 
-
-https://github-profile-trophy.vercel.app/?username=shwezinoo478&theme=dark_lover
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwezinoo478&layout=compact)
