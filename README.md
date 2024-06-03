@@ -9,6 +9,7 @@ Constantly learning and experimenting 🍄🍄, I thrive on the excitement of bu
 You can see my contributions here through [my portfolio](https://shwezinoo478.github.io/)
 ⚡⚡⚡⚡⚡⚡
 
+![](https://komarev.com/ghpvc/?username=shwezinoo478&abbreviated=true&style=flat&&color=ff69b4)
 
 <h2>Github Trophy </h2>
 
