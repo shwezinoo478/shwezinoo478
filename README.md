@@ -9,3 +9,10 @@ Constantly learning and experimenting 🍄🍄, I thrive on the excitement of bu
 You can see my contributions here through [my portfolio](https://shwezinoo478.github.io/)
 ⚡⚡⚡⚡⚡⚡
 
+
+<h2>Github Trophy </h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shwezinoo478&theme=onedark)](https://github.com/shwezinoo478/github-profile-trophy)
+
+
+
+https://github-profile-trophy.vercel.app/?username=shwezinoo478&theme=dark_lover
